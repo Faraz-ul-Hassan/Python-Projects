@@ -3,6 +3,7 @@
 A fun and interactive **Command-Line Interface (CLI) game** where you guess a randomly chosen number between **1 and 100**. Test your luck and strategy by selecting a difficulty level and making calculated guesses!  
 
 ---
+🔗 **Project URL:** [https://github.com/your-username/number-guessing-game](https://github.com/your-username/number-guessing-game)
 
 ## 🕹️ How to Play  
 
