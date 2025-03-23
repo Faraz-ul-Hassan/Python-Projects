@@ -22,12 +22,12 @@ A collection of my Python projects covering various domains like **automation, w
 
 | 🚀 Project Name | 📝 Description | 🔗 Repo Link |
 |---------------|--------------|------------|
-| **Bug Hunter** | A web automation tool for bug bounty hunting. | [🔗 Repo](#) |
-| **Web Scraper** | A Python-based web scraping tool using BeautifulSoup. | [🔗 Repo](#) |
+| **Number Guessing Game** | Mini-Game using Python. | [🔗 Repo](#) |
+<!--| **Web Scraper** | A Python-based web scraping tool using BeautifulSoup. | [🔗 Repo](#) |
 | **Security Scanner** | A simple vulnerability scanner using Python. | [🔗 Repo](#) |
 | **Flask Blog** | A fully functional blog built with Flask. | [🔗 Repo](#) |
 | **More Projects** | More projects coming soon... Stay tuned! 🚀 | - |
-
+-->
 ---
 
 ## ⚡ Quick Start  
