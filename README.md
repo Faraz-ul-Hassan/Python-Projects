@@ -1,4 +1,4 @@
-# 🐍 Python Projects Collection 🚀
+# 🐍 Python Projects 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python) 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge) 
