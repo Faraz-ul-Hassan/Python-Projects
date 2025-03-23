@@ -3,7 +3,7 @@
 A fun and interactive **Command-Line Interface (CLI) game** where you guess a randomly chosen number between **1 and 100**. Test your luck and strategy by selecting a difficulty level and making calculated guesses!  
 
 ---
-🔗 **Project URL:** [https://github.com/Faraz-ul-Hassan/Python-Projects/](https://github.com/Faraz-ul-Hassan/Python-Projects/blob/main/Number%20Guessing%20Game/guess.py)
+🔗 **Project URL:** [https://github.com/Faraz-ul-Hassan/Python-Projects/blob/main/Number%20Guessing%20Game/guess.py](https://github.com/Faraz-ul-Hassan/Python-Projects/blob/main/Number%20Guessing%20Game/guess.py)
 
 ## 🕹️ How to Play  
 
