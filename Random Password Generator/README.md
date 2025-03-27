@@ -17,6 +17,6 @@ A simple Python script that generates strong, customizable passwords in seconds.
 
 ## 🔧 Quick Start  
 ```bash
-git clone https://github.com/Faraz-ul-Hassan/Python-Projects/password-generator.git
-cd password-generator
+git clone https://github.com/Faraz-ul-Hassan/Python-Projects/tree/main/Random%20Password%20Generator.git
+cd Random
 python password_generator.py
