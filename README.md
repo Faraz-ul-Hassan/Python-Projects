@@ -22,7 +22,8 @@ A collection of my Python projects covering various domains like **automation, w
 
 | 🚀 Project Name | 📝 Description | 🔗 Repo Link |
 |---------------|--------------|------------|
-| **Number Guessing Game** | Mini-Game using Python. | [🔗 Repo](#) |
+| **Number Guessing Game** | Mini-Game using Python. | [🔗 Repo](https://github.com/Faraz-ul-Hassan/Python-Projects/tree/main/Number%20Guessing%20Game) |
+| **Random Password Generator** | Mini-Project using Python. | [🔗 Repo](https://github.com/Faraz-ul-Hassan/Python-Projects/tree/main/Random%20Password%20Generator) |
 <!--| **Web Scraper** | A Python-based web scraping tool using BeautifulSoup. | [🔗 Repo](#) |
 | **Security Scanner** | A simple vulnerability scanner using Python. | [🔗 Repo](#) |
 | **Flask Blog** | A fully functional blog built with Flask. | [🔗 Repo](#) |
